@@ -16,13 +16,27 @@ object RoboSlicer extends App{
     }
 
 
-  // def assign_labels()
+  def test_intersection(pair) = {
+    // test if p1_0 is between 
+    val c00: bool = (p1)
+    val c00: bool = (p1)
+    val c0 
+    val c00: bool = (p1)
+    val c00: bool = (p1)
+    val c1
+    c1 or c0
+  }
 
-
-  // def pair_points()
-
-
-  // def count_intersections()
+  def run_slicer(num: Int) = {
+    // create random set of 2n points on unit circle: [0,2pi]
+    val rand_points = create_points(num = num)
+    // draw n lines, through each consecutive pair of points
+    val rand_slices = rand_points.grouped(2).toList
+    // list each pair of lines 
+    val pair_slices = rand_slices.combinations(2).toList
+    // evaluate intersection of each pair of slices, numbero of intersections
+    filter(x=>x).size
+  }
 
 
   def main() = {  

@@ -32,7 +32,7 @@ object RoboSlicer extends App{
     val rand_points = create_points(num = num)
     // draw n lines, through each consecutive pair of points
     val rand_slices = rand_points.grouped(2).toList
-    // list each pair of lines 
+    // list each pair of lines
     val pair_slices = rand_slices.combinations(2).toList
     // evaluate intersection of each pair of slices, numbero of intersections
     filter(x=>x).size

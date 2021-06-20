@@ -1,4 +1,5 @@
 import Dependencies._
+libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.6"
 
 ThisBuild / scalaVersion     := "2.12.8"
 ThisBuild / version          := "0.1.0-SNAPSHOT"

@@ -44,7 +44,9 @@ object RoboSlicer extends App{
   def write_output(order: String,output: List[Int]) = {
     val output_write: List[List[Int]] = for (n <- output) yield {List(n)}
     // csv
-    val f = new java.io.File(f"distribution_order_$order.csv")
+    val n: String = output.size.toString
+    val fileName: String = f"distribution_N$n" + f"_Order$order" + ".csv"
+    val f = new java.io.File(fileName)
     val writer = CSVWriter.open(f)
     writer.writeAll(output_write)
   }
@@ -52,7 +54,7 @@ object RoboSlicer extends App{
 
   def main() = {  
     println("my name is miguel")
-    val N: Int = 1000
+    val N: Int = 100000
     val cuts :Int = 3
     val output: List[Int] = (for {i <- 0 until N} yield run_slicer(cuts) + cuts + 1 ).toList
     println(output.sum / N)

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sbtuser/538_robopizza/robopizza/src/main/scala/robopizza/Hello.scala:19:26: value toDouble is not a member of AnyVal[0m
+[0m[[0m[31merror[0m] [0m[0m    rand_pnts.map(x => x.toDouble )[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

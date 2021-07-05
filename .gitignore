@@ -1,0 +1,11 @@
+*.csv
+*.class
+*.jar
+*.cache
+*.xml
+*.properties
+*.history
+*export
+robopizza/target/*.
+target/*.
+

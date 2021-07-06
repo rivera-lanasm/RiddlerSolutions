@@ -7,4 +7,5 @@ http://www.beyondthelines.net/computing/scala-future-and-execution-context/
 
 https://blog.knoldus.com/back2basics-futures-in-scala/
 
-
+#### scala libraries
+https://scalac.io/blog/top-15-scala-libraries-for-data-science-in-2021/

@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/solutions_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	robopizza/RoboSlicer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/robopizza/RoboSlicer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChordIntersectionDistribution.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/ChordIntersectionDistribution.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChordIntersectionDistribution$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/ChordIntersectionDistribution$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RiordanGeneratingFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/RiordanGeneratingFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RiordanGeneratingFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/RiordanGeneratingFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	robopizza/RoboSlicer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/robopizza/RoboSlicer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	robopizza/RoboSlicer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/robopizza/RoboSlicer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	robopizza[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/robopizza[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChordIntersectionDistribution$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sbtuser/RiddlerSolutions/solutions/target/scala-2.12/classes/ChordIntersectionDistribution$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

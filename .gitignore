@@ -6,6 +6,6 @@
 *.properties
 *.history
 *export
-robopizza/target/*.
+solutions/target/*.
 target/*.
 
